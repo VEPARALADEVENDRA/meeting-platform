@@ -1,0 +1,6 @@
+Environment Variable Check:
+JITSI_APP_ID: Found (vpaas...)
+JITSI_KID: Found (vpaas...)
+JITSI_PRIVATE_KEY: Found (Length: 1627)
+Key Newlines: No escaped \n
+Key Real Newlines: No real newlines
